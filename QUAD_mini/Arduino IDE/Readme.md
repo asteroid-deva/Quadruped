@@ -45,6 +45,9 @@ During my manual testing, I noticed my Right Hips required standing angles of `1
 
 To fix this, I had to completely redesign my walking algorithm. In a standard quadruped gait, a leg swings forward, plants and then pushes *backward* past its center point to physically drag the body forward. Because my right legs couldn't push backward, I made my standing angles the absolute furthest back the legs would ever go. I coded the `QUAD_mini_walk` gait to swing the legs forward into the air, plant them, and simply pull them *back to the standing position* to pull the chassis forward. It was a massive logic hurdle, but it worked perfectly!
 
+### Youtube link 
+https://www.youtube.com/playlist?list=PLHxvUT2bWsHtMa1m-egAvFF8-mJCzW7M6
+
 
 
 
