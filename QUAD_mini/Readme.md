@@ -37,7 +37,9 @@ I couldn't just tell all the motors to go to "90 degrees". I had to test every s
 ## 📁 Repository Structure
 * `/QUADRUPED_mini` - Contains all the ESP32 Arduino code (.ino files) for calibration, walking and IMU leveling.
 * `/Videos` - Contains video demonstrations of the robot standing, walking and self-leveling.
-* `/Images` - Schematics and photos of the build process.
+
+
+  <img width="4080" height="3072" alt="IMG_20260507_175641412" src="https://github.com/user-attachments/assets/aa5751b1-da79-47d6-90f7-57e8fbfee7f5" />
 
 ---
-*Built with coffee, code, and a 450W power supply.*
+*Built with coffee, code and a 450W power supply.*
