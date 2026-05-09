@@ -85,19 +85,54 @@ Quadruped Motion
 
 ---
 
-# Approximate Cost Breakdown
+# 💰 Bill of Materials (Approximate)
 
-| Component | Approx Cost |
-|---|---|
-| Raspberry Pi 4B 8GB | ₹9500 |
-| ESP32 | ₹700 |
-| Intel RealSense Camera | ₹50000+ |
-| PCA9685 Drivers (x2) | ₹500 |
-| DS3225MG Servos (12x) | ₹21000+ |
-| BNO085 IMU | ₹3500 |
-| Neo-6M GPS | ₹700 |
-| SMPS Power | ₹500 |
-| 3D Printed Body | 4000+ ~Variable |
+| Component                       | Quantity | Approx Cost       |
+| ------------------------------- | -------- | ----------------- |
+| Raspberry Pi 4B 8GB             | 1        | ₹9500             |
+| ESP32                           | 1        | ₹700              |
+| Intel RealSense Camera          | 1        | ₹50000+           |
+| PCA9685 Servo Drivers           | 2        | ₹500              |
+| DS3225MG 25KG Servos            | 12       | ₹21000+           |
+| BNO085 IMU                      | 1        | ₹3500             |
+| Neo-6M GPS Module               | 1        | ₹700              |
+| 450W SMPS Power Supply          | 1        | ₹500              |
+| 3D Printed Quadruped Body       | 1        | ₹4000+ (Variable) |
+| M3 Square Nuts                  | 20       | ₹100              |
+| M4 Square Nuts                  | 20       | ₹120              |
+| M3x10mm Bolts                   | 20       | ₹150              |
+| M4x20mm Bolts                   | 20       | ₹180              |
+| Jumper Wires / Connectors       | Multiple | ₹300+             |
+| USB 3.0 Cables                  | 2        | ₹400+             |
+| Miscellaneous Mounting Hardware | Multiple | ₹500+             |
+
+---
+
+# 📌 Notes
+
+* Prices are approximate and may vary depending on:
+
+  * supplier,
+  * region,
+  * import availability,
+  * printing material,
+  * servo quality.
+
+* The Intel RealSense camera contributed the largest portion of the total project cost.
+
+* Mechanical hardware costs may vary depending on:
+
+  * frame modifications,
+  * mounting methods,
+  * reinforcement structures.
+
+* Additional prototyping expenses such as:
+
+  * soldering,
+  * wiring,
+  * adapters,
+  * and failed print iterations
+    are not fully included in this estimate.
 
 ---
 
