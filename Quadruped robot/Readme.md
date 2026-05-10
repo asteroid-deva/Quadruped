@@ -1,5 +1,11 @@
 # Vision-Guided Quadruped Robot using Raspberry Pi 4B and ESP32
 
+
+
+
+<img width="4080" height="3072" alt="IMG_20260426_224708560" src="https://github.com/user-attachments/assets/d09076d8-81c2-47dc-9fb6-f0fb3c8dbb92" />
+
+
 A distributed quadruped robotics system combining real-time computer vision, gesture recognition, embedded motion control and IMU-assisted stabilization.
 
 This project uses a Raspberry Pi 4B for high-level AI perception and an ESP32 for low-level actuator control. Hand gestures detected using MediaPipe are translated into predefined quadruped poses such as standing, sitting and waving.
