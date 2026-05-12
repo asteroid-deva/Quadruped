@@ -4,7 +4,7 @@
 The complete development progress, testing footage, hardware experiments and motion demonstrations of the quadruped robot can be viewed here:
 
 ## ▶️ YouTube Playlist
-[Insert YouTube Playlist Link Here]
+(https://www.youtube.com/playlist?list=PLHxvUT2bWsHv9KydIv0_wkCQc6Kxix0HR)
 
 The playlist includes:
 - Initial servo calibration
