@@ -403,7 +403,7 @@ This project is experimental and intended for:
 Developed by:
 Sanjith Saji
 
-Robotics and Automation Engineering
+Robotics and Automation Engineer 
 Saintgits College of Engineering
 
 ---
